@@ -1,0 +1,20 @@
+{
+  "name": "itheum_v2",
+  "version": "0.0.0",
+  "main": "src/itheum.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.8",
+    "@types/p5": "^1.3.3",
+    "typescript": "^4.4.4",
+    "vite": "^2.7.2"
+  },
+  "dependencies": {
+    "p5": "^1.4.0",
+    "path": "^0.12.7"
+  }
+}
